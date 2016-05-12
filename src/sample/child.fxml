@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<Pane fx:controller="sample.ChildController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="63.0" prefWidth="505.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox layoutX="14.0" layoutY="14.0" prefHeight="39.0" prefWidth="466.0">
+         <children>
+            <TextField />
+         </children>
+      </VBox>
+   </children>
+</Pane>
